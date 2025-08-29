@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://capstone.dobda.id
+
+# Sitemaps
+Sitemap: https://capstone.dobda.id/sitemap.xml
