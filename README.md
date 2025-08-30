@@ -11,7 +11,7 @@
 Website ini dirancang dengan **Next.js + TypeScript** serta mengutamakan performa, SEO, dan user experience.
 
 ![Screenshot Proyek](assets/homepage.png)
-[![Lihat Demo](https://img.shields.io/badge/🌐_Lihat_Demo-00C58E?style=for-the-badge&logoColor=white)](https://capstone.dobda.id)
+[![Lihat Demo](https://img.shields.io/badge/🌐_Lihat_Demo-00C58E?style=for-the-badge&logoColor=white)](https://captstone.dobda.id)
 
 </div>
 
